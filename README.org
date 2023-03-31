@@ -1,0 +1,4 @@
+#+title: My personal dwm rice
+#+Author: Seawalrus
+[[./scrot.png]]
+
